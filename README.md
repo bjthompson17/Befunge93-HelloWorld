@@ -29,6 +29,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Esolang wiki - Befunge93](https://esolangs.org/wiki/Befunge#Instructions)
+* [Befunge-93 Docs](https://catseye.tc/view/Befunge-93/doc/Befunge-93.markdown)
 
 ## Future Work
 
