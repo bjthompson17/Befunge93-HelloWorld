@@ -8,7 +8,7 @@ Steps to build and/or run the software:
 
 1. Download the "BefunRun" interpreter from Mikescher [here](https://github.com/Mikescher/BefunRun/releases/tag/v2017-10-16)
 2. Download the source code (HelloWorld.tf) from this repository
-3. Extract "BefunRun.exe" into any folder of your choice
+3. Extract "BefunRun.exe" into any folder of your choice. Also make sure the repository is extracted to a folder if applicable.
 4. Open the terminal inside the folder that "BefunRun.exe" was extracted into
 5. Run the following command: `BefunRun.exe /path/to/HelloWorld.tf`
 
