@@ -10,11 +10,13 @@ Steps to build and/or run the software:
 2. Download the source code (HelloWorld.tf) from this repository
 3. Extract "BefunRun.exe" into any folder of your choice
 4. Open the terminal inside the folder that "BefunRun.exe" was extracted into
-5. Run the following command: `BefunRun /path/to/HelloWorld.tf`
+5. Run the following command: `BefunRun.exe /path/to/HelloWorld.tf`
 
 Instructions for using the software:
 
 1. Simply run the program inside the terminal as described above
+2. When prompted, enter your name (or anything you'd like) and press \[Enter\]
+3. Watch as the program properly greets you!
 
 ## Development Environment
 
